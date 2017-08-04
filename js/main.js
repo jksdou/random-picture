@@ -11,4 +11,3 @@ console.info(
   'this project page:http://u-id.cn',
   'text-shadow: 2px 0px 1px #eee;color:blue;font-size:16px;'
 )
-// 测试文件下载的。。。。。。。。。。。。。。。。。
