@@ -1,4 +1,4 @@
-# random-picture
+# Random-picture
 A random picture page based on PHP
 
 随机图片
